@@ -1,5 +1,5 @@
 # Code War Solutions in JavaScript
-
+##code is inside main.js
 
 
 ## 1: Persistent Bugger
