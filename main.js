@@ -15,4 +15,8 @@ function narcissistic(value) {
     return narcissisticVal === value ? true : false;
 }
 
+// 3: Bit Counting
+var countBits = function (n) {
+    return (n.toString(2).match(/1/g) || []).length;
+};
 
